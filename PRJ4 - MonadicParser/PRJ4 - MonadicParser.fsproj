@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="ParserMonad.fs" />
+    <Compile Include="Parser.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
